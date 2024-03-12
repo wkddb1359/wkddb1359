@@ -28,14 +28,4 @@ I'm a Frontend-Engineer.
 
 <br/>
 
-<table>
-  <tr>
-    <td valgn="top" width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkddb1359&show_icons=true&include_all_commits=true&theme=cobalt"/>
-    </td>
-    <td valgn="top" width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkddb1359&layout=compact&theme=cobalt" />
-    </td>
-  </tr>
-</table>
 
