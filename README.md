@@ -11,7 +11,6 @@ I'm a Frontend-Engineer.
 <br/>
 
 ### 🌱 Experience
-- **wecode** - bootcamp *(Apr 2022 - Jul 2022)*
 - **groo** - FrontEnd-Developer / Internship *(Jun 2022 - Jul 2022)*
 - **finakle** - FrontEnd-Developer *(Mar 2023 - Mar 2024)*
 
