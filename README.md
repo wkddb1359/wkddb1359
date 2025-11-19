@@ -14,7 +14,7 @@ I'm a Frontend-Engineer.
 - **groo** - FrontEnd-Developer / Internship *(Jun 2022 - Jul 2022)*
 - **finakle** - FrontEnd-Developer *(Mar 2023 - Mar 2024)*
 - **eoding** - FrontEnd-Developer *(MAY 2024 - AUG 2025)*
-- **e** - FrontEnd-Developer *(AUG 2025 - ing)*
+- **egnis** - FrontEnd-Developer *(AUG 2025 - ing)*
 
 
 
